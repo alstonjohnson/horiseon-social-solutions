@@ -19,4 +19,3 @@ N/A
 ## License
 
 Please refer to the LICENSE in the repo.
-![image](https://github.com/alstonjohnson/horiseon-social-solutions/assets/169181014/9083cb66-e6b6-4c63-bb20-877ee6425a21)
