@@ -12,6 +12,8 @@ N/A
 
 I was to make sure that all links were active and that any non-semantic HTML elements were converted over to semantic HTML elements. Additionally, I added in alt attributes for photos. 
 
+Link to deployed site: https://alstonjohnson.github.io/horiseon-social-solutions/
+
 ## Credits
 
 N/A
